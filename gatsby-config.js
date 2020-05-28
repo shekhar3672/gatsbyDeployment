@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata:{
   	title: 'Full Stack Gatsby App',
-  	author:'Shekhar Jadhav'
+  	author:'Shekhar'
   },
 
   plugins: [
