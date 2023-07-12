@@ -15,7 +15,7 @@
     "heroku-postbuild": "gatsby build"
   },
   "dependencies": {
-    "gatsby": "^2.21.13",
+    "gatsby": "^5.11.0",
     "gatsby-plugin-sass": "^2.3.1",
     "gatsby-source-filesystem": "^2.3.1",
     "node-sass": "^4.14.1",
